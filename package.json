@@ -1,5 +1,5 @@
 {
-  "name": "{{ cookiecutter.repo_name }}",
+  "name": "aleks-vue-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
